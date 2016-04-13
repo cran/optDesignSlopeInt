@@ -1,0 +1,14 @@
+66310078619b8462d3a12fb5d9e79104 *CHANGELOG
+d78dac331a87289b5048009eb64c90a2 *DESCRIPTION
+6ac953a3ff0b792c6b7c80340782249a *NAMESPACE
+89256ad9cdd3507441a641254112c385 *R/optDesignSlopeInt.R
+43053fd7509b39de63c1d8ec808c2880 *R/private_cis.R
+ae2fec3b84d200bf918ecca540f1aec4 *R/private_other.R
+40e85f7cd5d2a7b6aeb843dca6f3a091 *R/public.R
+4ef3f13c2d7a6c1ecd2be7fb4560b850 *R/zzz.R
+97bef1bbd4159cd1d970f41c2b272014 *inst/CITATION
+95916b91b6d86e73cfddd541e13f5a17 *man/design_bakeoff.Rd
+68ddc6d50eb392f3f24a1903655f374d *man/err_vs_theta0_plot_for_homo_design.Rd
+ef95d1d7d2c78c0e8415416aa7bf38b8 *man/experimental_results.Rd
+78e4f7a83892492dd0bed7593a433b30 *man/oed_for_slope_over_intercept.Rd
+fa92357dba5d52c1ce6048c5b247bcb1 *man/optDesignSlopeInt.Rd
